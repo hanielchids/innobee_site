@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/hanielchids/innobee_site.git/static/css/main.0b2c41c4.chunk.css",
-    "main.js": "/hanielchids/innobee_site.git/static/js/main.248b794d.chunk.js",
-    "main.js.map": "/hanielchids/innobee_site.git/static/js/main.248b794d.chunk.js.map",
+    "main.js": "/hanielchids/innobee_site.git/static/js/main.e31a775f.chunk.js",
+    "main.js.map": "/hanielchids/innobee_site.git/static/js/main.e31a775f.chunk.js.map",
     "runtime-main.js": "/hanielchids/innobee_site.git/static/js/runtime-main.7818df17.js",
     "runtime-main.js.map": "/hanielchids/innobee_site.git/static/js/runtime-main.7818df17.js.map",
     "static/css/2.d8cb5cde.chunk.css": "/hanielchids/innobee_site.git/static/css/2.d8cb5cde.chunk.css",
-    "static/js/2.d4dc30cc.chunk.js": "/hanielchids/innobee_site.git/static/js/2.d4dc30cc.chunk.js",
-    "static/js/2.d4dc30cc.chunk.js.map": "/hanielchids/innobee_site.git/static/js/2.d4dc30cc.chunk.js.map",
+    "static/js/2.bb42d4ea.chunk.js": "/hanielchids/innobee_site.git/static/js/2.bb42d4ea.chunk.js",
+    "static/js/2.bb42d4ea.chunk.js.map": "/hanielchids/innobee_site.git/static/js/2.bb42d4ea.chunk.js.map",
     "index.html": "/hanielchids/innobee_site.git/index.html",
     "static/css/2.d8cb5cde.chunk.css.map": "/hanielchids/innobee_site.git/static/css/2.d8cb5cde.chunk.css.map",
     "static/css/main.0b2c41c4.chunk.css.map": "/hanielchids/innobee_site.git/static/css/main.0b2c41c4.chunk.css.map",
-    "static/js/2.d4dc30cc.chunk.js.LICENSE.txt": "/hanielchids/innobee_site.git/static/js/2.d4dc30cc.chunk.js.LICENSE.txt",
+    "static/js/2.bb42d4ea.chunk.js.LICENSE.txt": "/hanielchids/innobee_site.git/static/js/2.bb42d4ea.chunk.js.LICENSE.txt",
     "static/media/bg.334c4ab3.jpg": "/hanielchids/innobee_site.git/static/media/bg.334c4ab3.jpg",
     "static/media/bgimage.a5e3b325.jpg": "/hanielchids/innobee_site.git/static/media/bgimage.a5e3b325.jpg",
     "static/media/bgimg.0a5906bd.jpg": "/hanielchids/innobee_site.git/static/media/bgimg.0a5906bd.jpg",
@@ -36,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.7818df17.js",
     "static/css/2.d8cb5cde.chunk.css",
-    "static/js/2.d4dc30cc.chunk.js",
+    "static/js/2.bb42d4ea.chunk.js",
     "static/css/main.0b2c41c4.chunk.css",
-    "static/js/main.248b794d.chunk.js"
+    "static/js/main.e31a775f.chunk.js"
   ]
 }
